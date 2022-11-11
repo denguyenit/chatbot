@@ -1,6 +1,5 @@
 Flask
 nltk
-pickle
 numpy
 tflearn
 tensorflow
